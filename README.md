@@ -1,5 +1,5 @@
 # space_invaders
-Repo for the files for Space Invaders game developed as a project during Data Analytics Bootcamp.
+Repo for the files for Space Invaders game developed with Pygame as a project during Data Analytics Bootcamp.
 
 Demo
 Start Screen
